@@ -15,10 +15,10 @@ Sensors Published
 
 The script publishes the following values every 5 seconds:
 
-Temperature: Random variation around 25°C
+Temperature: slowly drifting between 22°C and 30°C
 
-Humidity: Random variation around 60%
+Humidity: slowly drifting between 50% and 70%
 
-Light Sensor: 0 or 1 (represents OFF/ON)
+Light: digital value 0 or 1 (represents OFF/ON)
 
 
