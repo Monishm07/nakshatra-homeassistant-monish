@@ -1,4 +1,4 @@
-🧩 Home Assistant + MQTT Integration (Nakshatra Automation Assignment)
+🧩 Home Assistant + MQTT Integration (
 Student Details
 
 Name: Monish M
